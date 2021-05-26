@@ -1,3 +1,3 @@
 # LICENSE
 
-## Apache
+## Apache 3.0
